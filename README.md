@@ -1,2 +1,2 @@
 # CoreJs
-Javascript from Start for akk
+Javascript from Start for all
